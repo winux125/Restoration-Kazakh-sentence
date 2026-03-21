@@ -1,0 +1,501 @@
+id,input_text,labels
+kzp_train_0001,ерден ердің қаупі бар,O O O PERIOD
+kzp_train_0002,ақылдының ақылы сарқылмайтын көлмен тең,O O O O PERIOD
+kzp_train_0003,мал бетіне қараған жан жарынан айырылар,O O O O O PERIOD
+kzp_train_0004,еңбек түбі береке көптің түбі мереке,O O COMMA O O PERIOD
+kzp_train_0005,түйе сойған ешкі сойғаннан дәметіпті,O O O O PERIOD
+kzp_train_0006,жарауы жаман жүйріктен жарауы жақсы жабы озар,O O COMMA O O O PERIOD
+kzp_train_0007,қой үріккен жағына беттемейді,O O O PERIOD
+kzp_train_0008,өткір қылыш тәнді жаралайды өткір сөз жанды жаралайды,O O O COMMA O O O PERIOD
+kzp_train_0009,қатын өлсе үйің кетеді басыңнан күйің кетеді,O COMMA O COMMA O O PERIOD
+kzp_train_0010,бірліктен бездіретін де әйел сұмдықты сездіретін де әйел,O O O COMMA O O O PERIOD
+kzp_train_0011,жақсы ай мен күндей әлемге бірдей,O O O COMMA O PERIOD
+kzp_train_0012,жорға мінген жолдасына қарамас,O O O PERIOD
+kzp_train_0013,қыңыр кісіден түзу сөз шықпайды,O O O O PERIOD
+kzp_train_0014,тәуекелсіз дария кешпек жоқ,O O O PERIOD
+kzp_train_0015,бір ақылды мың пәледен құтқарады,O O O O PERIOD
+kzp_train_0016,жаманнан қарыз алсаң тар жерде жаныңды алар,O O COMMA O O O PERIOD
+kzp_train_0017,жаулығы бар деп қатын деме жалыны бар деп отын деме,O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0018,ежелгі дұшпан ел болмас етектен кескен жең болмас,O O O COMMA O O O PERIOD
+kzp_train_0019,ағайын ащы мал тұщы,O COMMA O PERIOD
+kzp_train_0020,есігі жаманның үйіне барма шешесі жаманның қызын алма,O O O COMMA O O O PERIOD
+kzp_train_0021,бүкірдің белін қабір түзетеді,O O O PERIOD
+kzp_train_0022,көңіл дария көз найза,O COMMA O PERIOD
+kzp_train_0023,өзіңді олжалатпай өзгені олжалай алмайсың,O COMMA O O PERIOD
+kzp_train_0024,қызығы жоқ өмірден ұйқыда көрген түс артық,O O O O O O PERIOD
+kzp_train_0025,балығы жоқ көл қысыр балы жоқ гүл қысыр,O O O COMMA O O O PERIOD
+kzp_train_0026,бала жасындағысын ұмытпайды таз басындағысын ұмытпайды,O O COMMA O O PERIOD
+kzp_train_0027,біткен істің міні жоқ бітірген ердің кемі жоқ,O O O COMMA O O O PERIOD
+kzp_train_0028,арасында мұрын болмаса екі көз бірін-бірі шұқыр еді,O O COMMA O O O O PERIOD
+kzp_train_0029,ел намысы ер намысы,O O O PERIOD
+kzp_train_0030,сараң да бір сасық су да бір,O O COMMA O O O PERIOD
+kzp_train_0031,келесі сабақ қашан және қай жерде,O O O O O QUESTION
+kzp_train_0032,байлық неге керек адалдан мал жимасаң билік неге керек әділ билік құрмасаң,O O COMMA O O COMMA O O COMMA O O PERIOD
+kzp_train_0033,жағымсызды жақыны да жарылқамас,O O O PERIOD
+kzp_train_0034,қарыздан да қатын ал қатының жаныңда қалады,O O O COMMA O O PERIOD
+kzp_train_0035,жақсылықты көп қуған байлыққа жолығар,O O O O PERIOD
+kzp_train_0036,дос көтерер көңілді мал көтерер өлімді,O O COMMA O O PERIOD
+kzp_train_0037,ашқа тартқан кешке тартады,O O O PERIOD
+kzp_train_0038,тікен гүлін қорғайды ара балын қорғайды,O O COMMA O O PERIOD
+kzp_train_0039,қас жақсының белгісі әрі мырза әрі құл,O O O O COMMA O PERIOD
+kzp_train_0040,анасы қыз болмаған атасы жігіт болмаған,O O COMMA O O O
+kzp_train_0041,өзіңді бір рет сыйлағанға екі рет құрмет ет,O O O O O O O PERIOD
+kzp_train_0042,ескісіз жаңа болмас жамансыз жақсы болмас,O O COMMA O O PERIOD
+kzp_train_0043,ақылды қызға ана көп аяулы жанға пана көп,O O O COMMA O O O PERIOD
+kzp_train_0044,алаша деп аттанамыз боқжама да болса ала береміз,O O COMMA O O O O PERIOD
+kzp_train_0045,у ішкен бір өледі ант ішкен мың өледі,O O O COMMA O O O PERIOD
+kzp_train_0046,ұяда нені көрсе ұшқанда соны іледі,O O COMMA O O PERIOD
+kzp_train_0047,пәлелі жерді баспа басыңа түссе саспа,O O COMMA O O PERIOD
+kzp_train_0048,басты бұзған балта істі бұзған маңқа,O O COMMA O O PERIOD
+kzp_train_0049,ер болсаң бопсаға шыда,O COMMA O PERIOD
+kzp_train_0050,сегізбін деме тоғызға жолығарсың тоғызбын деме доңызға жолығарсың,O COMMA O COMMA O COMMA O PERIOD
+kzp_train_0051,жас құрақ жердің көркі ынтымақ елдің көркі,O O O COMMA O O PERIOD
+kzp_train_0052,айырылған азады қосылған озады,O COMMA O PERIOD
+kzp_train_0053,еңбек асырар жалқаулық берекені қашырар,O COMMA O O PERIOD
+kzp_train_0054,адал дегенше адам де,O COMMA O PERIOD
+kzp_train_0055,саңырау ауызға қарайды соқыр дауысқа қарайды,O O COMMA O O PERIOD
+kzp_train_0056,жолдасын тастаған жолда қалар,O O O PERIOD
+kzp_train_0057,ат аунаған жеріне ер туған жеріне,O O COMMA O O PERIOD
+kzp_train_0058,бес саусақ бірдей емес,O O O PERIOD
+kzp_train_0059,алтын күміс жауған жерден де туып-өскен ел артық,COMMA O O O O O O PERIOD
+kzp_train_0060,қазақтың салт-дәстүрлері ежелден келе жатыр,O O O O PERIOD
+kzp_train_0061,ақынның дауға септігі жоқ балуанның жауға септігі жоқ,O O O COMMA O O O PERIOD
+kzp_train_0062,қараңғы үйде қабан күркірейді,O O O PERIOD
+kzp_train_0063,шайтан менен жын басқа бәйбіше менен күң басқа,O O O COMMA O O O PERIOD
+kzp_train_0064,ақылды адам сағыңды сындырмас ақымақ адам жағыңды тындырмас,O O O COMMA O O O PERIOD
+kzp_train_0065,отырған қыз орнын табар,O O O PERIOD
+kzp_train_0066,нәсілі жаман сиырдан өлі бұзау туады,O O O O O PERIOD
+kzp_train_0067,ақылды адам айтқызбай біледі ақ сұңқар қаққызбай іледі,O O O COMMA O O O PERIOD
+kzp_train_0068,адамнан тілеген қариды құдайдан тілеген жариды,O O COMMA O O PERIOD
+kzp_train_0069,жетім бота жетекке ергіш,O O O PERIOD
+kzp_train_0070,бас бергенге ас бер,O O O PERIOD
+kzp_train_0071,жаңа дос келгенде ескі достың көзінен жас шығады,O O COMMA O O O O PERIOD
+kzp_train_0072,сөз жүйесін тапса мал иесін табады,O O COMMA O O PERIOD
+kzp_train_0073,быламықты ішкенде тіссіз кәрі елестер өткендегі істің бәрі,O O O COMMA O O O PERIOD
+kzp_train_0074,арғымақ бірде жалды бірде жалсыз ер жігіт бірде малды бірде малсыз,O O COMMA O COMMA O O O COMMA O PERIOD
+kzp_train_0075,оқу білім береді ақыл бермейді,O O COMMA O PERIOD
+kzp_train_0076,жаман жігіт жасында да шал,O O O O PERIOD
+kzp_train_0077,құланның қашуына мылтықтың басуы,O O O PERIOD
+kzp_train_0078,балықшының қонағы жүре тояр,O O O PERIOD
+kzp_train_0079,жақсымен жолдас болсаң жаның қалар жаманмен жолдас болсаң жаныңды алар,O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0080,надан кісі сусыз арыққа ұқсайды ілімді кісі аққан дарияға ұқсайды,O O O O COMMA O O O O PERIOD
+kzp_train_0081,зинақор әйелден өтірікші бала туады,O O O O PERIOD
+kzp_train_0082,ер өлсе де аты өлмейді,O O COMMA O PERIOD
+kzp_train_0083,аяз би әліңді біл құмырсқа жолыңды біл,O O O COMMA O O PERIOD
+kzp_train_0084,қойшының қызы қой келгенде жүн түтеді,O O O O O PERIOD
+kzp_train_0085,өсек еккен өкініш орады,O O O PERIOD
+kzp_train_0086,бір жоқ бір жоқты табады,O O O O PERIOD
+kzp_train_0087,алтын тісті ауыздан аса жаман сөз шығар,O O O O O O PERIOD
+kzp_train_0088,ақылда баға жоқ тәрбиеде шек жоқ,O O COMMA O O PERIOD
+kzp_train_0089,алғыға қарап пікір ет артқыға қарап шүкір ет,O COMMA O COMMA O COMMA O PERIOD
+kzp_train_0090,бұлт шығып жаңбыр жаумай елді алдайды әйелдің айлакері ерді алдайды,O COMMA O COMMA O COMMA O O O PERIOD
+kzp_train_0091,өтіріктің өзіне нанба ақсақты тыңдай,O O COMMA O PERIOD
+kzp_train_0092,ары таза жігіттің жаны таза,O O O O PERIOD
+kzp_train_0093,досы көпті жау алмайды ақылы көпті дау алмайды,O O O COMMA O O O PERIOD
+kzp_train_0094,жақсы кісі мақтанса жаманнан жата беріп қалдым дер,O O COMMA O O O O PERIOD
+kzp_train_0095,түйе көп болса жүк сыймайды жігіт көп болса жұмыс бітпейді,O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0096,ақ байпақтан сиыр өлер,O O O PERIOD
+kzp_train_0097,шын жыласа соқыр көзден жас шығады,O COMMA O O O PERIOD
+kzp_train_0098,білмеген жердің ой-шұқыры көп көрінген таудың алыстығы жоқ,O O O COMMA O O O PERIOD
+kzp_train_0099,қатыны жалқау байы самарқау үйден қонақ қашады,O COMMA O O O O PERIOD
+kzp_train_0100,бесік баласы бес түлейді ел жаманы кеш түлейді,O O O COMMA O O O PERIOD
+kzp_train_0101,күзетшінің жаманы алдырған соң өкінер,O O O O PERIOD
+kzp_train_0102,өгізді өрге айдағанның өмірі өксиді,O O O O PERIOD
+kzp_train_0103,ет жегеннің бәрі қонақ енші алғанның бәрі бөрік,O O O COMMA O O O PERIOD
+kzp_train_0104,көзінше мақтама сыртынан даттама,O COMMA O PERIOD
+kzp_train_0105,етігің тар болса дүниенің кеңдігінен не пайда,O O COMMA O O O PERIOD
+kzp_train_0106,жаман өзен өткел бермес,O O O PERIOD
+kzp_train_0107,жігіттің түсін айтпа ісін айт,O O COMMA O PERIOD
+kzp_train_0108,тесік моншақ жерде қалмас,O O O PERIOD
+kzp_train_0109,жақсыдан айтқан ғибрат өлгеніңше ұмытылмайды,O O O O PERIOD
+kzp_train_0110,байды құдай атқаны жабағы жүнін сатқаны,O O O O O PERIOD
+kzp_train_0111,бір байдың жұртына екі тышқан таласыпты,O O O O O PERIOD
+kzp_train_0112,қырықта қылау түсер сақал-мұртқа қырау түсер,O O COMMA O O PERIOD
+kzp_train_0113,жер дауынан жесір дауы қиын,O O O O PERIOD
+kzp_train_0114,жақсымен жолдас болсаң нәсібі жұғар,O O COMMA O PERIOD
+kzp_train_0115,ашушаңның анты болмайды сабырсызға дәулет қонбайды,O O COMMA O O PERIOD
+kzp_train_0116,туысы жаман туғанын жамандайды,O O O PERIOD
+kzp_train_0117,жақсының өзі өлгенмен сөзі өлмейді,O O COMMA O PERIOD
+kzp_train_0118,шолғыншың шалдырмаса жауға алдырмайсың,O COMMA O PERIOD
+kzp_train_0119,сиыр мүйізінен табады адам тілден табады,O O COMMA O O PERIOD
+kzp_train_0120,махаң ақаң дейді ақаң махаң дейді,O O COMMA O O PERIOD
+kzp_train_0121,өкпе бер бауыр бер сыбағамды тәуір бер,O COMMA O COMMA O O PERIOD
+kzp_train_0122,бір күн қарны ашқаннан қырық күн ақыл сұрама,O O O O O O O PERIOD
+kzp_train_0123,ашқа қазан астырма тоңғанға от жақтырма,O O COMMA O O PERIOD
+kzp_train_0124,жалғыз түйе бақырауық жалғыз бала жылауық,O O COMMA O O PERIOD
+kzp_train_0125,астыңдағы атыңа сенбе қойныңдағы қатыныңа сенбе,O O COMMA O O PERIOD
+kzp_train_0126,ат қартайса сүріншек болар ер қартайса жаңылшақ болар,O COMMA O COMMA O COMMA O PERIOD
+kzp_train_0127,күресерге дәрмен жоқ іш қазандай қайнайды,O O COMMA O O PERIOD
+kzp_train_0128,көп жүрген жерде береке жүреді,O O O O PERIOD
+kzp_train_0129,атан алты асаса тояды,O O COMMA PERIOD
+kzp_train_0130,еңбегі еш тұзы сор,O COMMA O PERIOD
+kzp_train_0131,ай толса қолмен көрсетпес болар,O COMMA O O PERIOD
+kzp_train_0132,қатын ер қасында қараша хан қасында,O O COMMA O O PERIOD
+kzp_train_0133,елінде жақсы болса пайдасы тиер содырлы тентек болса найзасы тиер,O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0134,біреуге мал қайғы біреуге жан қайғы,O O COMMA O O PERIOD
+kzp_train_0135,татулық байлық тыныштық бақыт,O COMMA O PERIOD
+kzp_train_0136,таудың басын көр де түбіне барма,O O O COMMA O PERIOD
+kzp_train_0137,саздау жердің ағашы сабырсыз ердің сазасы,O O O O O PERIOD
+kzp_train_0138,құрастырып айтса құлдыкі жөн біріктіріп айтса бидікі жөн,O COMMA O COMMA O COMMA O PERIOD
+kzp_train_0139,ел айырылса көбіне бар жол айырылса кеңіне түс,O COMMA O COMMA O COMMA O PERIOD
+kzp_train_0140,шыбын да аңқаудың аузын аңдиды,O O O O PERIOD
+kzp_train_0141,кей ақымақ дұшпанымен дос болады досымен қас болады,O O O O COMMA O O PERIOD
+kzp_train_0142,керсеңді алдыңа қойдым кездікті қолыңа бердім,O O COMMA O O PERIOD
+kzp_train_0143,қостың кішісі болғанша иттің күшігі бол,O O COMMA O O PERIOD
+kzp_train_0144,қанша тұлпар десе де мініп болмас жалсызды,O O O COMMA O O PERIOD
+kzp_train_0145,өзім ойласам тайлы құлынды бие тиеді,O O COMMA O O PERIOD
+kzp_train_0146,тұмаудың арты құрт болады тұманның арты жұт болады,O O O COMMA O O O PERIOD
+kzp_train_0147,сенің атың жүре тұрсын менің атым тұра тұрсын,O O O COMMA O O O PERIOD
+kzp_train_0148,көшерде жұрт жаман тастарда қатын жаман,O O COMMA O O PERIOD
+kzp_train_0149,қарыздан да қатын ал қатының қалар жаныңда,O O O COMMA O O PERIOD
+kzp_train_0150,көппен пішкен тон кең де кем де болмайды,O O O O COMMA O O PERIOD
+kzp_train_0151,ашуың келсе қолың тарт,O COMMA O PERIOD
+kzp_train_0152,зекетсіздің малы арам жетесіздің дауы арам,O O COMMA O O PERIOD
+kzp_train_0153,білімнен қымбат досың жоқ аурудан үлкен қасың жоқ,O O O COMMA O O O PERIOD
+kzp_train_0154,аспаздың қарны асқанына тояды,O O O PERIOD
+kzp_train_0155,қызмет қыл да міндет қыл,O O COMMA O PERIOD
+kzp_train_0156,кеңесіп кескен қол ауырмас,O O O PERIOD
+kzp_train_0157,біреудің ботасына дегені өзінің бурасына келеді,O O O O O PERIOD
+kzp_train_0158,ағадан іні ақылды болса үш жасы үлкен болады,O O O COMMA O O O PERIOD
+kzp_train_0159,қазаннан қақпақ кетсе иттен ұят кетеді,O O COMMA O O PERIOD
+kzp_train_0160,екі жеп биге шықтым,O O O PERIOD
+kzp_train_0161,құдай жүгіртпегенді бұзау жүгіртеді,O O O PERIOD
+kzp_train_0162,қауғадан шошынған мал оңбас жаудан шошыған ер оңбас,O O O COMMA O O O PERIOD
+kzp_train_0163,ақылы жоқ жаманға ауыл малы бұралқы,O O O O O PERIOD
+kzp_train_0164,күлкі жасартады қайғы қартайтады,O COMMA O PERIOD
+kzp_train_0165,бір жас үлкеннен ақыл сұра,O O O O PERIOD
+kzp_train_0166,бір құмалақ бір қарын майды шірітер бір жаман мың қолды ірітер,O O O O O COMMA O O O O PERIOD
+kzp_train_0167,үндемеген үйдей пәледен құтылады,O O O PERIOD
+kzp_train_0168,тұз шелекке жөке қапқыш,O O O PERIOD
+kzp_train_0169,мейірімділік жүректен мейірімсіздік білектен,O COMMA O PERIOD
+kzp_train_0170,қойдың сүті қорғасын қойды соққан оңбасын,O O COMMA O O PERIOD
+kzp_train_0171,ақылды ойланғанша тентек ісін бітірер,O COMMA O O PERIOD
+kzp_train_0172,білім таппай мақтанба өнер таппай баптанба,O O COMMA O O PERIOD
+kzp_train_0173,жуас түйеге әркім ие,O O O PERIOD
+kzp_train_0174,ай десе аузы бар күн десе көзі бар,O COMMA O COMMA O COMMA O PERIOD
+kzp_train_0175,ақылы жоқ азғана сөзге семірер,O O O O PERIOD
+kzp_train_0176,cay сиырдың боғы емес,O O O PERIOD
+kzp_train_0177,қақпай жатып қоңырауың сылдырлайды,O O O PERIOD
+kzp_train_0178,біреу әзіл айтса сен әділ айт,O O COMMA O O PERIOD
+kzp_train_0179,ақылы жоқ сұлудан өңі жаман текті артық,O O COMMA O O O PERIOD
+kzp_train_0180,әділ патша гүлстанға ұқсайды залым патша зымыстанға ұқсайды,O O O COMMA O O O PERIOD
+kzp_train_0181,үйде бір күн ұрыс болса қырық күндік ырыс кетеді,O O O O COMMA O O O PERIOD
+kzp_train_0182,тәуекелдің кемесі суға батпайды отқа жанбайды,O O O COMMA O PERIOD
+kzp_train_0183,сор сораңнан шығады өтірік арамнан шығады,O O COMMA O O PERIOD
+kzp_train_0184,көз көзге түссе мейірі жүзге түседі,O O COMMA O O PERIOD
+kzp_train_0185,топ көрмеген қорғаншақ топтан озған қызғаншақ,O O COMMA O O PERIOD
+kzp_train_0186,жаманнан би қойма кесім алады залымнан қарыз алма өсім алады,O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0187,жаман қойшы жайлауын бір күн жейді жақсы қойшы жайлауын мың күн жейді,O O O O O COMMA O O O O O PERIOD
+kzp_train_0188,не ақсағанда аларсың не қақсағанда аларсың,O O COMMA O O PERIOD
+kzp_train_0189,базарға әркім барар өзінің керегін алар,O O COMMA O O PERIOD
+kzp_train_0190,жасықтың мыңынан асылдың бірі артық,O COMMA O O PERIOD
+kzp_train_0191,барлығына қалай уақыт табасың,O O O QUESTION
+kzp_train_0192,түз шашқанға қастық қылма,O O O PERIOD
+kzp_train_0193,өз білмегеніңді кісіден сұра үлкен білмесе кішіден сұра,O O O COMMA O COMMA O PERIOD
+kzp_train_0194,жомарт деп айтса болар сұратпай бергенді,O O O O O PERIOD
+kzp_train_0195,ит түйені балыққа неге айырбастамайды екен депті,O O O O O O PERIOD
+kzp_train_0196,қазақ адасса қартына қарайды орыс адасса картасына қарайды,O COMMA O COMMA O COMMA O PERIOD
+kzp_train_0197,құлын даусы құр аттікіндей шығады,O O O O PERIOD
+kzp_train_0198,айрылған азады қосылған озады,O COMMA O PERIOD
+kzp_train_0199,қайырлы жігітті ер десең болар жолдасы үшін жанын қиған,O O O O COMMA O O O PERIOD
+kzp_train_0200,су ішкен құдығыңа түкірме,O O O PERIOD
+kzp_train_0201,ақырын жүрсең алысқа кетерсің,O COMMA O PERIOD
+kzp_train_0202,қыз баққаннан қысырақ баққан оңай,O O O O PERIOD
+kzp_train_0203,аты жаманның арманы кетер баласы жаманның дәрмені кетер,O O O COMMA O O O PERIOD
+kzp_train_0204,дегелек келді кемпір шешем қыз болды,O COMMA O O O PERIOD
+kzp_train_0205,баймын деп саспа бимін деп таспа,O O COMMA O O PERIOD
+kzp_train_0206,ақылды ой ойлағанша тентек ісін бітірер,O O COMMA O O PERIOD
+kzp_train_0207,тіліңмен жүгірме біліммен жүгір,O COMMA O PERIOD
+kzp_train_0208,арақпен құшақтастым дегенше ақылмен қоштастым де,O O COMMA O O PERIOD
+kzp_train_0209,жақсы ат жанға серік,O O O PERIOD
+kzp_train_0210,атына сенген мұрттай ұшады құдайына сенген құстай ұшады,O O O COMMA O O O PERIOD
+kzp_train_0211,өз анаңды сыйласаң өзгенің анасына тіл тигізбе,O O COMMA O O O PERIOD
+kzp_train_0212,жатқа сырыңды айтпа әркез өтірік айтпа,O O COMMA O O PERIOD
+kzp_train_0213,алыс жолда жүргенде амандыққа не жетсін,O O COMMA O O PERIOD
+kzp_train_0214,битке өкпелеп тоныңды отқа салма,O COMMA O O PERIOD
+kzp_train_0215,қасқадан алаяқ туады қотырдан қыршаңқы туады,O O COMMA O O PERIOD
+kzp_train_0216,ауыр ой адамды тұңғиыққа да батырады ерлік іске де шақырады,O O O O O COMMA O O O PERIOD
+kzp_train_0217,сыпайы сырын жасырмайды пұшық мұрнын жасырмайды,O O COMMA O O PERIOD
+kzp_train_0218,бай теңіз оны жей алмаған доңыз,O COMMA O O O PERIOD
+kzp_train_0219,залым болма ғалым бол,O COMMA O PERIOD
+kzp_train_0220,боранды күні бала құтырар желді күні ит құтырар,O O O COMMA O O O PERIOD
+kzp_train_0221,батыл болмай батыр болмайсың,O COMMA O PERIOD
+kzp_train_0222,батыр түсінде жау көреді балықшы түсінде ау көреді,O O O COMMA O O O PERIOD
+kzp_train_0223,баланы жастан қатынды бастан,O COMMA O PERIOD
+kzp_train_0224,көп түкірсе көл болар,O COMMA O PERIOD
+kzp_train_0225,көп малдан айырылғанда бір малды қасқыр жейді,O O COMMA O O O PERIOD
+kzp_train_0226,жақсыдан әкім қойсаң елді түзетер жаманнан әкім қойсаң елді жүдетер,O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0227,кәріге құрмет жасқа міндет,O COMMA O PERIOD
+kzp_train_0228,көп жүрген көмбе үстінен шығады,O O O O PERIOD
+kzp_train_0229,бұлт болса күн жауар ашық болса жылынар,O COMMA O COMMA O COMMA PERIOD
+kzp_train_0230,арық атқа қамшы жау жыртық үйге тамшы жау,O O O COMMA O O O PERIOD
+kzp_train_0231,жерден жеті қоян тапқандай қуанды,O O O O PERIOD
+kzp_train_0232,ұрыспай айырылған ұялмай қосылады,O COMMA O PERIOD
+kzp_train_0233,мықтылық жұдырықта емес жылы сөзде,O O COMMA O PERIOD
+kzp_train_0234,саудагерде иман жоқ арын сатады өтірікшіде иман жоқ жанын сатады,O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0235,сақалға ақ түсті көңілге дақ түсті,O O COMMA O O PERIOD
+kzp_train_0236,пайғамбар да күйеуін сыйлапты,O O O PERIOD
+kzp_train_0237,төре айғақ болса бітім болмас төбе тайғақ болса шығып болмас,O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0238,бәлені іздеп барма келсе қашпа,O O COMMA COMMA PERIOD
+kzp_train_0239,жанбаса отын жаман жаға алмаса қатын жаман,COMMA O COMMA O COMMA O PERIOD
+kzp_train_0240,жараған ат көзіңе қарайды,O O O PERIOD
+kzp_train_0241,атдорбасын иіскемей ат тоймайды,O COMMA O PERIOD
+kzp_train_0242,аз болды деп күйінбе мая болса қайтесің көп болды деп қуанба зая болса қайтесің,O O O COMMA O COMMA COMMA O O O COMMA O COMMA PERIOD
+kzp_train_0243,жақсының күнде бір үйі кеңиді жаманның күнде бір үйі кемиді,O O O O COMMA O O O O PERIOD
+kzp_train_0244,бермейтін нәрсе болмайды сұрауы келіссе,O O COMMA O PERIOD
+kzp_train_0245,түлкінің өз терісі өзіне жау,O O O O PERIOD
+kzp_train_0246,ағайьнның аты озғанша ауылдастың тайы озсын,O O COMMA O O PERIOD
+kzp_train_0247,адал ұл оздырады жаман ұл тоздырады,O O COMMA O O PERIOD
+kzp_train_0248,өзгеге ұл болғанша өз еліңе құл бол,O O COMMA O O O PERIOD
+kzp_train_0249,адамның жүрген жері абат,O O O PERIOD
+kzp_train_0250,жақсылардың үлгісі жанып тұрған шамдай,O O O O PERIOD
+kzp_train_0251,тегі бір бірін-бірі теппейді тегі бөлек бірін-бірі ептейді,O O O COMMA O O O PERIOD
+kzp_train_0252,жаман дос көлеңке басыңды күн шалса құтыла алмайсың басыңды бұлт шалса таба алмайсың,O O COMMA O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0253,көңілі қарау сырласынан айырылады,O O O PERIOD
+kzp_train_0254,адамды арман қосады алшақты дәрмен қосады,O O COMMA O O PERIOD
+kzp_train_0255,жақсы атады деп тасыма жаман атады деп жасыма,O O O COMMA O O O PERIOD
+kzp_train_0256,бұл сексен көрейін деген жасым ба еді быламық ішейін деген асым ба еді,O O O O O O COMMA O O O O O QUESTION
+kzp_train_0257,апамды кім алса жездем сол,O O COMMA O PERIOD
+kzp_train_0258,таз басқа темір тарақ,O O O PERIOD
+kzp_train_0259,ананың көңілі балада баланың көңілі далада,O O COMMA O O PERIOD
+kzp_train_0260,қыс малыңды бақ жаз жеріңді шап,O O COMMA O O PERIOD
+kzp_train_0261,хан қарақшы халық сарапшы,O COMMA O PERIOD
+kzp_train_0262,туысы жоқ жалғызға топқа шапқан не керек,O O O O O O QUESTION
+kzp_train_0263,еңбек еткеннің мұқтажы табылар,O O O PERIOD
+kzp_train_0264,он үште отау иесі,O O O PERIOD
+kzp_train_0265,тентек туған жерін ұмытар,O O O PERIOD
+kzp_train_0266,жақсының аты жолда қалмас,O O O PERIOD
+kzp_train_0267,жүрегіңді шемендейтін де дертіңді шегелейтін де дұшпан,O O COMMA O O O PERIOD
+kzp_train_0268,қапияда қатын ақыл табады,O O O PERIOD
+kzp_train_0269,тойға барсаң тойып бар жұмысыңды қойып бар,O COMMA O COMMA O O PERIOD
+kzp_train_0270,жыртық үйдің құдайы бар,O O O PERIOD
+kzp_train_0271,ақылдан жақын дос болмас ашудан жаман қас болмас,O O O COMMA O O O PERIOD
+kzp_train_0272,ақылсыз адам менмен келер ақылды адам кең келер,O O O COMMA O O O PERIOD
+kzp_train_0273,ата даңқымен қыз өтер мата даңқымен бөз өтер,O O O COMMA O O O PERIOD
+kzp_train_0274,азы қарулы сый сатулы,O COMMA O PERIOD
+kzp_train_0275,ұста бар жерде қолың тый,O O O O PERIOD
+kzp_train_0276,көзі соқырдан көңілі соқыр жаман,O O O O PERIOD
+kzp_train_0277,азға қанағат көпке шүкір,O COMMA O PERIOD
+kzp_train_0278,жаманның өнері өкпе орынсыз өкпелер көпке,O O COMMA O O PERIOD
+kzp_train_0279,көрмес түйені де көрмес,O O O PERIOD
+kzp_train_0280,қорқақты қуа берсе батыр болар жараны қаси берсе қотыр болар,O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0281,адам аласы ішінде хайуан аласы сыртында,O O COMMA O O PERIOD
+kzp_train_0282,көңілсіз ерге қару бергенше көсеу бер,O O O COMMA O PERIOD
+kzp_train_0283,абайламай түстім тереңге енді маған сай қайда,O O COMMA O O O PERIOD
+kzp_train_0284,бір аштықтың бір тоқтығы бар,O O O O PERIOD
+kzp_train_0285,ақ көңілді адамға біреудің сырқауы батар,O O O O O PERIOD
+kzp_train_0286,жақсы ат малдан артық,O O O PERIOD
+kzp_train_0287,айтпаса білмейсің ашпаса көрмейсің,COMMA COMMA COMMA PERIOD
+kzp_train_0288,жақсының жақсылығын айт нұры тассын жаманның жамандығын айт құты қашсын,O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0289,жаман малын қорғайды жақсы арын қорғайды,O O COMMA O O PERIOD
+kzp_train_0290,ер қаруы бес қару,O O O PERIOD
+kzp_train_0291,мал бітерінде кілемнің түгіндей мал кетерінде қолдың кіріндей,O O O COMMA O O O PERIOD
+kzp_train_0292,бір көрген біліс екі көрген таныс,O O COMMA O O PERIOD
+kzp_train_0293,ақ та болсаң ант ішпе айрандай бойға жұғады,O O O O COMMA O O PERIOD
+kzp_train_0294,екі аяқтыда бажа тату төрт аяқтыда бота тату,O O O COMMA O O O PERIOD
+kzp_train_0295,бір нақақты күйдіргеннен он қылмыстыны ақтаған артық,O O COMMA O O O PERIOD
+kzp_train_0296,тіл тікенді де алады,O O O PERIOD
+kzp_train_0297,арғымақ жүйрікпін деп мақтанба алдыңда талай өр бар,O O O COMMA O O O PERIOD
+kzp_train_0298,бір жақсыға бітірер кем көңілдің сапасын,O O O O O PERIOD
+kzp_train_0299,бақырауық болса да түйенің бары жақсы,O O COMMA O O PERIOD
+kzp_train_0300,жүз сом ақшаң болғанша жүз жолдасың болсын,O O O COMMA O O PERIOD
+kzp_train_0301,балаға торғайдың көлеңкесінен суық тиеді,O O O O PERIOD
+kzp_train_0302,жақсы болса алғаның үйіңнен кісі кетпейді жаман болса алғаның тек жүргенге жетпейді,O O COMMA O O COMMA O O COMMA O O PERIOD
+kzp_train_0303,күнде ұрысқанның ары жоқ күнгей беттің қары жоқ,O O O COMMA O O O PERIOD
+kzp_train_0304,аштың ақылы тамағында жаяудың ақылы табанында,O O COMMA O O PERIOD
+kzp_train_0305,аз күйікті ас басар,O O O PERIOD
+kzp_train_0306,білім инемен құдық қазғандай,O O O PERIOD
+kzp_train_0307,жолаушының жолда келе жатып аты өлсе жолаушының соры болады иттің жолы болады,O O O O O COMMA O O COMMA O O PERIOD
+kzp_train_0308,ағайынның ұрысы торқаның жыртысы,O O O PERIOD
+kzp_train_0309,жақсының сөзі жаннаттай жаманның сөзі міндеттей,O O COMMA O O PERIOD
+kzp_train_0310,жаман айғыр жатырына шабады,O O O PERIOD
+kzp_train_0311,білсең халықтан озасың білмеген жамандар мойның неге созасың,O O COMMA O O O O PERIOD
+kzp_train_0312,ұрлық қылып мал берсе адалдықтан не пайда,O COMMA O COMMA O O QUESTION
+kzp_train_0313,ит ластығымен дарияны арамдай алмас,O O O O PERIOD
+kzp_train_0314,құтсыз қонақ келсе қораға қасқыр шабады,O O COMMA O O PERIOD
+kzp_train_0315,бір күндік жолдасқа қырық күн сәлем,O O O O O PERIOD
+kzp_train_0316,жазда сайға қонба қыста қырға қонба,O O COMMA O O PERIOD
+kzp_train_0317,өтірік қаңбақ шындық салмақ,O COMMA O PERIOD
+kzp_train_0318,ашу ағадан кешіру ініден,O COMMA O PERIOD
+kzp_train_0319,заң ақымаққа арнап жазылмайды,O O O PERIOD
+kzp_train_0320,ұрып-ұрып оймен жүргенше ұрғызып-ұрғызып қырмен жүр,O O COMMA O O PERIOD
+kzp_train_0321,алғаны жаман жігіттің ойлағаны болмайды,O O O O PERIOD
+kzp_train_0322,тіл бал тіл ажал,O COMMA O PERIOD
+kzp_train_0323,арық аттың бабын тапсаң тұлпар күйкентайдың күйін тапсаң сұңқар,O O O COMMA COMMA O O COMMA PERIOD
+kzp_train_0324,ақылды сөз қысқа келер нақылды сөз нұсқа келер,O O O COMMA O O O PERIOD
+kzp_train_0325,кімнің жерін жерлесең соның суын сула,O O COMMA O O PERIOD
+kzp_train_0326,қойың болмаса байлықта ойың болмасын,O COMMA O O PERIOD
+kzp_train_0327,ақсақ қой түстен кейін маңырайды,O O O O PERIOD
+kzp_train_0328,ақ еділдің өзі болмасақ та бұлағымыз ақылды бастың өзі болмасақ та құлағымыз,O O O O COMMA COMMA O O O O COMMA PERIOD
+kzp_train_0329,тәкаппарды тақ көтерер ол да шақ көтерер,O O COMMA O O O PERIOD
+kzp_train_0330,шешесі өсекшінің қызы өтірікші,O O O PERIOD
+kzp_train_0331,тоңға жатқан мал оңбас тобырға түскен іс оңбас,O O O COMMA O O O PERIOD
+kzp_train_0332,ат орнына тай төлеу,O O O PERIOD
+kzp_train_0333,бір мылтықтың аузына мың кісі сияды,O O O O O PERIOD
+kzp_train_0334,су сүзілмес сүйек үзілмес,O COMMA O PERIOD
+kzp_train_0335,жастықта да кәрілік тұр байлықта да жарлылық тұр,O O O COMMA O O O PERIOD
+kzp_train_0336,алған жарың жаксы болса айт пен тойың не керек,O O O COMMA O O O O PERIOD
+kzp_train_0337,алты жыл аш болсаң да атаңның әдетін тастама,O O O O COMMA O O PERIOD
+kzp_train_0338,ағайын бір өліде бір тіріде,O O COMMA O PERIOD
+kzp_train_0339,баласы жоқ ханым тұл баяны жоқ ғалым тұл,O O O COMMA O O O PERIOD
+kzp_train_0340,көптің ақылы көл аздың ақылы шөл,O O COMMA O O PERIOD
+kzp_train_0341,ақыл қарттан шығар асыл тастан шығар,O O COMMA O O PERIOD
+kzp_train_0342,сыйлай білген сыйлата біледі,O COMMA O PERIOD
+kzp_train_0343,басына бақ қонатын жігіттің ұлы епті болады қызы бетті болады,O O O O O O COMMA O O PERIOD
+kzp_train_0344,етікті нәл сақтайды жігітті әл сақтайды,O O COMMA O O PERIOD
+kzp_train_0345,тентекті тентек десең бөркі қазандай болады,O O COMMA O O PERIOD
+kzp_train_0346,әділ би халқы үшін залым би құлқыны үшін,O O O COMMA O O O PERIOD
+kzp_train_0347,жалқау тек жатар жатқанның ырысы қайтар,O O COMMA O O PERIOD
+kzp_train_0348,еңбексіз отыру шалдың ісі еңбексіз жеу салдың ісі,O O O COMMA O O O PERIOD
+kzp_train_0349,арық пенен семіздің бауыры бірдей жақсы менен жаманның жаны бірдей,O O O O COMMA O O O O PERIOD
+kzp_train_0350,жаман биені жабула да кұлынын ал,O O O COMMA O PERIOD
+kzp_train_0351,сөз қуған пәлеге жолығар,O O O PERIOD
+kzp_train_0352,көк шулан қойдан табылады,O O O PERIOD
+kzp_train_0353,көп ішінде сөйлеген көсемдіктің белгісі көпке сөзі ұнаған шешендіктің белгісі,O O O O COMMA O O O O PERIOD
+kzp_train_0354,екі ұштыны бір күшті қосар,O O O O PERIOD
+kzp_train_0355,дәулет есіктен кіреді бала бесіктен кіреді,O O COMMA O O PERIOD
+kzp_train_0356,қызды қымтап ұстаған ұялмайды,O O O PERIOD
+kzp_train_0357,малды жақсы баққаның өзіңе абырой тапқаның,O O COMMA O O PERIOD
+kzp_train_0358,ел мен ел қосылады тау мен тау қосылмайды,O O O COMMA O O O PERIOD
+kzp_train_0359,ақылды ісіне сенеді ақымақ түсіне сенеді,O O COMMA O O PERIOD
+kzp_train_0360,ішкен мас тойған тоқ,O COMMA O PERIOD
+kzp_train_0361,өсек деген бәле бар өтірікпен бір туған жағымпаздық жан досы бірге жатып бір тұрған,O O O O O O COMMA O O O O COMMA O PERIOD
+kzp_train_0362,жарлының аузы аққа тисе мұрны қанар,O O O COMMA O PERIOD
+kzp_train_0363,жігіттің құны жүз жылқы ар-намысы мың жылқы,O O O COMMA O O PERIOD
+kzp_train_0364,екі кісі бір кісінің тәңірі,O O O O PERIOD
+kzp_train_0365,кең киім тозбайды кеңесті ел азбайды,O O COMMA O O PERIOD
+kzp_train_0366,адам киімімен емес кісілігімен,O O COMMA PERIOD
+kzp_train_0367,алғаның жаман болса көңілің жарым атың шабан болса талар қарың,O O COMMA O COMMA O O COMMA O PERIOD
+kzp_train_0368,жаманға шөп ереді жақсыға сөз ереді,O O COMMA O O PERIOD
+kzp_train_0369,әңгіме бұзау емізер бұзау таяқ жегізер,O O COMMA O O PERIOD
+kzp_train_0370,өлетін бала молаға қашады,O O O PERIOD
+kzp_train_0371,сабан бол шөп бол шамаң келсе көп бол,O COMMA O COMMA O COMMA O PERIOD
+kzp_train_0372,ер басына күн туса ереуіл атқа ер салар,O O O COMMA O O O PERIOD
+kzp_train_0373,шөлмек мың күн сыймайды бір күн сынады,O O O COMMA O O PERIOD
+kzp_train_0374,дауды ақыл жеңеді жауды батыр жеңеді,O O COMMA O O PERIOD
+kzp_train_0375,бейбітшілік жолында жан берсең де қорынба,O O O O COMMA PERIOD
+kzp_train_0376,ағайын туған кімде жоқ сыйласпаса жат жуық,O O O COMMA COMMA O PERIOD
+kzp_train_0377,аға-ініні жамандап қане туған тапқаның арғымақты жамандап қане тұлпар тапқаның,O COMMA COMMA O COMMA O COMMA COMMA O PERIOD
+kzp_train_0378,жер мен жерді жер жалғайды ел мен елді қыз жалғайды,O O O O COMMA O O O O PERIOD
+kzp_train_0379,ақылды ұл білім іздер ақылсыз ұл шылым іздер,O O O COMMA O O O PERIOD
+kzp_train_0380,ақшасыздың қолы келте жалқаулардың тоны келте,O O COMMA O O PERIOD
+kzp_train_0381,іс оңына басарда шыбыш лақтап тоқты қоздайды,O O COMMA O COMMA O PERIOD
+kzp_train_0382,есік көргенді алма бесік көргенді ал,O O COMMA O O PERIOD
+kzp_train_0383,сөз қуған пәлеге жолығады жол қуған қазынаға жолығады,O O O COMMA O O O PERIOD
+kzp_train_0384,назары аштың көзі тоймайды бақ пен қыдыр дарыса да,O O O COMMA O O O O PERIOD
+kzp_train_0385,сиынғаннан сүйенгенің күшті болсын,O O O PERIOD
+kzp_train_0386,қолымен қосаяқ соққан аузымен орақ орған,O O COMMA O O PERIOD
+kzp_train_0387,алуан-алуан жүйрік бар әліне қарай жүгіреді,O O COMMA O O PERIOD
+kzp_train_0388,жаманға сырыңды айтпа сырыңды айтсаң да шыныңды айтпа,O O COMMA O O COMMA O PERIOD
+kzp_train_0389,мұзға сүйенбе жауға сенбе,O COMMA O PERIOD
+kzp_train_0390,есекке шалшық сұңқарға талшық,O COMMA O PERIOD
+kzp_train_0391,қару алсаң мылтық ал жаяу жүрсең таяғың қарның ашса тамағың,O COMMA O COMMA O O COMMA O O PERIOD
+kzp_train_0392,өз өлтірмейді жат жарылқамайды,O COMMA O PERIOD
+kzp_train_0393,әйел жомарттық қылғанда еркек намарттық қылғаны өлім,O O COMMA O O O PERIOD
+kzp_train_0394,қызды таныс алады таныс алмаса қоныс алады,O O COMMA O COMMA O PERIOD
+kzp_train_0395,өзім асыраған текешігім өзіме артылды,O O O O PERIOD
+kzp_train_0396,жақсы сөйлесе аузынан гүл төгіледі,O COMMA O O PERIOD
+kzp_train_0397,жақсыға айтсаң біледі жаманға айтсаң күледі,O COMMA COMMA O COMMA PERIOD
+kzp_train_0398,қылышты қорқақты сойылды батыр соғыпты,O O O O PERIOD
+kzp_train_0399,өзіңді-өзің хан көтеріп өзге жұртты нөкер дейсің,O O COMMA O O O PERIOD
+kzp_train_0400,жалқауға сөз айтсаң адам таппас сөз айтады,O O COMMA O O O PERIOD
+kzp_train_0401,жаман қоныстан жақсы жүріс артық,O O O O PERIOD
+kzp_train_0402,жабайы шөп егінді аздырар еріншектік ерді аздырар,O O O COMMA O O PERIOD
+kzp_train_0403,қайғың қара қазан болсын,O O O PERIOD
+kzp_train_0404,еріне қызы сай жеріне елігі сай,O O COMMA O O PERIOD
+kzp_train_0405,аттың жалында атанның қомында,O O O PERIOD
+kzp_train_0406,батырға таяқ та жарақ,O O O PERIOD
+kzp_train_0407,ердің малы елдің малы,O O O PERIOD
+kzp_train_0408,өз жұртын танымаған кісі еліне би бола алмас,O O O O O O O PERIOD
+kzp_train_0409,гүрілдеп келген жаудан күлімдеп келген қас жаман,O O COMMA O O O PERIOD
+kzp_train_0410,қыз емес қыздың аты бәрі қатын қойыпты қызықсын деп қыз деп атын,O O O O O COMMA O O O O O PERIOD
+kzp_train_0411,жақсыда жаттық жоқ жаманда достық жоқ,O O COMMA O O PERIOD
+kzp_train_0412,қашпақ-қумақ ерге сын көшпек-қонбақ елге сын,O O COMMA O O PERIOD
+kzp_train_0413,сөйлей білмеген жаман сөзді өзіне келтірер,O O O O O PERIOD
+kzp_train_0414,аттының несібесі алтау жаяудың несібесі жалқы,O O COMMA O O PERIOD
+kzp_train_0415,екі тентек елге сыймас,O O O PERIOD
+kzp_train_0416,өтірікшінің астында құр аты бар,O O O O PERIOD
+kzp_train_0417,түтіні түзу шықпағандар бірін-бірі қасқыр итше талайды,O O O O O O PERIOD
+kzp_train_0418,палуанның жаманы шалдырған соң өкінер,O O O O PERIOD
+kzp_train_0419,жүзден жүйрік мыңнан тұлпар,O COMMA O PERIOD
+kzp_train_0420,ант ұрмай ат жығылмас,O O O PERIOD
+kzp_train_0421,бұзау ұрлаған өгізді де ұрлайды,O O O O PERIOD
+kzp_train_0422,ат арыса тулақ ер арыса әруақ,O O COMMA O O PERIOD
+kzp_train_0423,тойға барсаң тойып бар төрт тоныңды киіп бар,O COMMA O COMMA O O O PERIOD
+kzp_train_0424,айрылмас қоңсыңа ауыр сөз айтпа,O O O O PERIOD
+kzp_train_0425,көлдің көркі құрақ таудың көркі бұлақ,O O COMMA O O PERIOD
+kzp_train_0426,жаманның көрсеткенінен жақсының сілтегені артық,O COMMA O O PERIOD
+kzp_train_0427,бай болып көргенім жоқ жарлы болып өлгенім жоқ,O O O COMMA O O O PERIOD
+kzp_train_0428,панасы жоқ таудан без пайдасы жоқ байдан без,O O O COMMA O O O PERIOD
+kzp_train_0429,анаңды меккеге үш арқалап барсаң да қарызыңнан құтыла алмайсың,O O O O O COMMA O O PERIOD
+kzp_train_0430,жолға шықсаң жол азығың мол болсын,O COMMA O O O PERIOD
+kzp_train_0431,семіз көркем бай шешен,O COMMA O PERIOD
+kzp_train_0432,бір қазанға екі бидай қуырылмас,O O O O PERIOD
+kzp_train_0433,өз бетін аямаған кісі бетін шиедей қылады,O O COMMA O O O PERIOD
+kzp_train_0434,егін өнбесе қайғы бір жылдық балаң оңбаса қайғы ғұмырлық,O COMMA O O COMMA O COMMA O PERIOD
+kzp_train_0435,ары бардың бетінде алау жанып тұрады,O O O O O PERIOD
+kzp_train_0436,жонға салсаң жүйрік жолға салсаң жорға,O COMMA COMMA O COMMA PERIOD
+kzp_train_0437,қонысқа қарай мал өсер ырысқа қарай ұл өсер,O O O COMMA O O O PERIOD
+kzp_train_0438,менмен жігіттің соры төменшек жігіттің қоры,O O COMMA O O PERIOD
+kzp_train_0439,ғылымның басы ақыл ақылдың басы төзімділік,O O COMMA O O PERIOD
+kzp_train_0440,желінсау қой қосаққа кірмейді құр табаққа бата жүрмейді,O O O COMMA O O O PERIOD
+kzp_train_0441,күте білсең ханшадан күң жақсы,O COMMA O O PERIOD
+kzp_train_0442,қашқан жауға қатын ер,O O O PERIOD
+kzp_train_0443,ақымақтың ақырына бақ тентектің мақұлына бап,O O COMMA O O PERIOD
+kzp_train_0444,тумаған балаға кіндік шеше,O O O PERIOD
+kzp_train_0445,білім бақтың жібермейтін қазығы білімсіз бақ әлдекімнің азығы,O O O COMMA O O O PERIOD
+kzp_train_0446,жақсы алтын басын еңкейтсе жаман боқты көтін тоңқайтар,O O O COMMA O O O PERIOD
+kzp_train_0447,екі қу кешкі ақшамда кездеседі екі ит жерошақ басында кездеседі,O O O O COMMA O O O O PERIOD
+kzp_train_0448,алып анадан туады ат биеден туады,O O COMMA O O PERIOD
+kzp_train_0449,епті етегін жабады епсіз мүрдем қабады,O O COMMA O O PERIOD
+kzp_train_0450,аз сөйлеп көп тыңда,O COMMA O PERIOD
+kzp_train_0451,ас қадірін тоқ білмес,O O O PERIOD
+kzp_train_0452,малды жаман баққаның келген бақты қаққаның,O O COMMA O O PERIOD
+kzp_train_0453,өз жұртын танымаған кісі еліне би болмас,O O O O O O PERIOD
+kzp_train_0454,жаулығы болса қатын жалыны болса отын,O COMMA COMMA O COMMA PERIOD
+kzp_train_0455,ханды құдай ұрайын десе қарашысымен қас болар байды құдай ұрайын десе дәулетіне мас болар,O O O COMMA O O COMMA O O O COMMA O O PERIOD
+kzp_train_0456,жау жеңетін жігіт жарағынан танылғы,O O O O PERIOD
+kzp_train_0457,жаман көрші сырыңды сыртқа жаяды,O O O O PERIOD
+kzp_train_0458,жауға жалынба досқа тарылма,O COMMA O PERIOD
+kzp_train_0459,жақсы болар жігіттің етек-жеңі кең келер,O O O O O PERIOD
+kzp_train_0460,от тәнді жылытар сөз жанды жылытар,O O COMMA O O PERIOD
+kzp_train_0461,қайғысыз қара суға семіреді,O O O PERIOD
+kzp_train_0462,ата тұрып ұл сөйлегеннен без ана тұрып қыз сөйлегеннен без,O COMMA O O COMMA O COMMA O O PERIOD
+kzp_train_0463,қатты-қатты сөйлесең мұсылман діннен шығар,O COMMA O O PERIOD
+kzp_train_0464,күшіңнің көптігін белдескенде білерсің,O O O PERIOD
+kzp_train_0465,ер құны жақсы жүз жылқы қатын құны жартысы,O O O O COMMA O O PERIOD
+kzp_train_0466,өле табылса тамақ талқан табылса тамақ,O O COMMA O O PERIOD
+kzp_train_0467,алпыс адам аттан жығылса әрқайсысы өз ауырған жерін сипайды,O O O COMMA O O O O PERIOD
+kzp_train_0468,жаудан қашсаң жаның қалар жау қолында жарың қалар ішінде күйік-жалын қалар,O COMMA O COMMA O O O COMMA O O PERIOD
+kzp_train_0469,айрылар дос ердің артқы қасын сұрайды,O O O O O PERIOD
+kzp_train_0470,айтқанның аузы жаман жылағанның көзі жаман,O O COMMA O O PERIOD
+kzp_train_0471,қаһарлы батыр қатынынан қаймығар жалқы жігіт жақынынан қаймығар,O O O COMMA O O O PERIOD
+kzp_train_0472,ағаш ұстаған жерінен сынбайды,O O O PERIOD
+kzp_train_0473,арғымақ аттың тұяғы тасты басса кетілер сазды басса жетілер,O O O O COMMA COMMA O COMMA PERIOD
+kzp_train_0474,даудың байсал тапқаны төрешіге барғаны,O O O O PERIOD
+kzp_train_0475,қызым үйде көзі түзде,O COMMA O PERIOD
+kzp_train_0476,жеріне қарай егін ек жолына қарай жегін жек,O O O COMMA O O O PERIOD
+kzp_train_0477,итаяғын ит те қориды,O O O PERIOD
+kzp_train_0478,жаманның көрсеткенінен жақсының айтқаны анық,O COMMA O O PERIOD
+kzp_train_0479,тізеден суға белден тоба,O O O PERIOD
+kzp_train_0480,жаман атқа жал бітсе жанына торсық байлатпас,O O O COMMA O O PERIOD
+kzp_train_0481,бесті айғырдың бетінен сақтан,O O O PERIOD
+kzp_train_0482,бала көңілдің гүлі көздің нұры,O O COMMA O PERIOD
+kzp_train_0483,жарлылық деген жақсы екен жатып ішер ас болса,O O O COMMA O O O PERIOD
+kzp_train_0484,қос атпенен қол көп көрінеді қозысымен қой көп көрінеді,O O O O COMMA O O O PERIOD
+kzp_train_0485,шетте жүрсең тарығарсың туған елді сағынарсың,O COMMA COMMA O O PERIOD
+kzp_train_0486,болмайтын бала жиырма бесінде жаспын дейді,O O O O O PERIOD
+kzp_train_0487,ғылымнан білім зор білімсіз ғылым қор,O O COMMA O O PERIOD
+kzp_train_0488,мал арыстанның аузында түрікпеннің төрінде,O O COMMA O PERIOD
+kzp_train_0489,ашпаса кім көрер айтпаса кім білер,COMMA O COMMA COMMA O PERIOD
+kzp_train_0490,ақылдыға айтса біледі ақымаққа айтса күледі,O COMMA COMMA O COMMA PERIOD
+kzp_train_0491,келгеннің мандайынан кеткеннің желкесінен сипа,O COMMA O O PERIOD
+kzp_train_0492,ғалым алдында аузыңды тый,O O O PERIOD
+kzp_train_0493,ит тойған жеріне ер туған жеріне,O O COMMA O O PERIOD
+kzp_train_0494,азғыруға адамның шайтаны жаман,O O O PERIOD
+kzp_train_0495,төркіні жаман әйелдің төбесі жарық,O O O O PERIOD
+kzp_train_0496,жаманның ақылы түстен кейін жақсының қадірі істен кейін,O O O COMMA O O O PERIOD
+kzp_train_0497,бұйырған ас тіс сындырып кіреді,O O O O PERIOD
+kzp_train_0498,у жасаған удан өледі найза ұстаған жаудан өледі,O O O COMMA O O O PERIOD
+kzp_train_0499,біреудің қаңсығы біреуге таңсық,O O O PERIOD
+kzp_train_0500,әйт шүу деген атанға демеу әупірім деген ерге демеу,O O O O COMMA O O O PERIOD
