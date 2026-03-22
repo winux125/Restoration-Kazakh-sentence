@@ -180,3 +180,7 @@ class TrainingData:
         for _,r in cfg.train_example.iterrows():
             self.all_rows.append({"input_text": r['input_text'], 'labels': r['labels']})
         print(f'Total: {len(self.all_rows)}')
+
+
+def quality_filter(all_rows):
+    return all_rows
